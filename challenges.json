@@ -1,0 +1,62 @@
+[
+  {
+    "type": "body",
+    "description": "Extend one of your arms with your palm facing forward and pull your fingers upwards for 10 seconds per hand.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Stretch your arm against your chest and pull it using your other arm for 10 seconds per arm.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Pull your neck with your hand to the right and left, remaining in position for a few seconds.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "With both hands on the back of your head, bring it down, stretching the back of the area.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Cross your legs and descend with your hands straight towards the floor. Repeat the movement with the other leg in front.",
+    "amount": 100
+  },
+  {
+    "type": "body",
+    "description": "Sitting, spread your legs and try to touch your palms to the floor, repeat 3 times for 5 seconds.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Pull your knee against your chest and hold, switch legs after 10 seconds.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Sitting, cross one leg and lean your torso forward, switch legs after 10 seconds.",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "description": "Sitting down, close your eyes and cover them with your palms for 2 minutes, then open normally.",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "In an open environment, look as far as you can in four directions for 3 seconds, just move your eyes. Repeat 3 times.",
+    "amount": 140
+  },
+  {
+    "type": "eye",
+    "description": "Using your thumbs, massage the area under the eyebrows in a circular motion for 15 seconds.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "Standing, rotate your waist as far as you can to the left, hold for five seconds. Repeat to the right.",
+    "amount": 90
+  }
+]
