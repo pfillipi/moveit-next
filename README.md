@@ -1,7 +1,7 @@
 # An app to make you stop to relax in a regular base
 
 ## Demonstration
-<img src="../public/demo.png" alt="Exemplo">
+<img src="../public/icons/demo.png" alt="Exemplo">
 
 ## Techs
 
