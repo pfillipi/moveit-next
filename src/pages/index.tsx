@@ -17,7 +17,7 @@ interface HomeProps {
   challengesCompleted: number;
 }
 
-export default function Home(props: HomeProps) {
+export default function Home(props) {
   return (
     <ChallengesProvider
       level={props.level}
